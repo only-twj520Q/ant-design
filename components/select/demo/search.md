@@ -48,9 +48,9 @@ ReactDOM.render(
       option.children.toLowerCase().indexOf(input.toLowerCase()) >= 0
     }
   >
-    <Option value="jack">Jack</Option>
-    <Option value="lucy">Lucy</Option>
-    <Option value="tom">Tom</Option>
+    <Option value="j12ack">Jack</Option>
+    <Option value="l1212ucy">Lucy</Option>
+    <Option value="t12om">Tom</Option>
   </Select>,
   mountNode,
 );
